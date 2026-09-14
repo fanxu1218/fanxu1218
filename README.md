@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://fanxu1218.github.io/HelloSkill/">SkillDock</a> &nbsp; · &nbsp;
-  <a href="https://github.com/fanxu1218/Study_Fastion_Lanuguage#readme">渐进式编程课</a> &nbsp; · &nbsp;
-  <a href="https://fanxu1218.github.io/TaoYingHotPoint/">桃影热点</a>
+  <a href="https://study.fanxu12180618.chatgpt.site/">渐进式编程课</a> &nbsp; · &nbsp;
+  <a href="https://fanxu1218.github.io/TaoYingHotPoint/">饕影热点</a>
 </p>
 
 在这里分享我的编程探索、学习记录和小工具。关注 **HarmonyOS 与跨平台开发**，也在探索 **AI 工作流、Web 应用和自动化**。
@@ -35,11 +35,11 @@
 
 `学习记录` `TypeScript` `React` `Markdown`
 
-[浏览课程 ↗](https://github.com/fanxu1218/Study_Fastion_Lanuguage/tree/main/content) &nbsp; / &nbsp; [查看源码](https://github.com/fanxu1218/Study_Fastion_Lanuguage)
+[打开网站 ↗](https://study.fanxu12180618.chatgpt.site/) &nbsp; / &nbsp; [浏览课程](https://github.com/fanxu1218/Study_Fastion_Lanuguage/tree/main/content) &nbsp; / &nbsp; [查看源码](https://github.com/fanxu1218/Study_Fastion_Lanuguage)
 
 ---
 
-### 03 · 桃影热点
+### 03 · 饕影热点
 
 **把分散的热点，放到同一个入口。**
 
