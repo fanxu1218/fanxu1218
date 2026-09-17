@@ -1,7 +1,11 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
-  <img src="assets/banner.svg" width="100%" alt="梵虚 FANXU — 把好奇心，写成作品。Build useful things. Keep exploring.">
+  <img src="assets/banner.svg" width="100%" alt="梵虚 FANXU — 把好奇心，写成作品。独立应用、AI 工作流、学习与工具。">
 </picture>
+
+<p align="center">
+  <a href="https://fanxu1218.github.io/appShow/"><strong>AppShow · 我的应用作品集 ↗</strong></a>
+</p>
 
 <p align="center">
   <a href="https://fanxu1218.github.io/HelloSkill/">SkillDock</a> &nbsp; · &nbsp;
@@ -9,13 +13,39 @@
   <a href="https://fanxu1218.github.io/TaoYingHotPoint/">饕影热点</a>
 </p>
 
-在这里分享我的编程探索、学习记录和小工具。关注 **HarmonyOS 与跨平台开发**，也在探索 **AI 工作流、Web 应用和自动化**。
+独立开发者，关注 **HarmonyOS 与跨平台开发**，也把 **AI 工作流、Web 应用和自动化**变成日常创作的一部分。
 
-喜欢从一个具体的问题出发，把想法做成可以打开、可以使用、可以持续改进的作品。
+从一个想解决的小问题出发，琢磨交互、写下代码，再把作品带到真实的使用场景里。
 
-## 精选项目
+## 01 · AppShow / 应用作品集
 
-### 01 · SkillDock
+<a href="https://fanxu1218.github.io/appShow/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/appshow-mobile.svg">
+    <img src="assets/appshow.svg" width="100%" alt="AppShow — 把热爱，做成应用。点击探索我的独立应用作品集。">
+  </picture>
+</a>
+
+**想法不只停在脑海里，也可以成为每天打开的应用。**
+
+AppShow 是我的独立应用橱窗，记录产品想法、真实界面与发布进展。当前主打 **漫架（SeeComics）**：为漫画、PDF 和小说准备的一座本地书架，让故事有处安放，让阅读更专注。
+
+`独立应用` `产品设计` `本地优先` `持续创造`
+
+**[打开作品集 ↗](https://fanxu1218.github.io/appShow/)** &nbsp; / &nbsp; [认识漫架](https://fanxu1218.github.io/appShow/apps/manjia/) &nbsp; / &nbsp; [展示站源码](https://github.com/fanxu1218/appShow)
+
+<details>
+  <summary>展开漫架 Windows 真实界面</summary>
+  <br>
+  <a href="https://fanxu1218.github.io/appShow/apps/manjia/">
+    <img src="assets/manjia-windows.png" width="100%" alt="漫架 Windows 本地书架真实界面，展示漫画、PDF 与小说收藏。">
+  </a>
+  <p><sub>截图来自 AppShow。Windows 版已上线，各平台发布进展见作品介绍页。</sub></p>
+</details>
+
+## 更多创造，从不同的问题出发
+
+### 02 · SkillDock
 
 **从一个真实任务，找到合适的 Skill 组合。**
 
@@ -27,7 +57,7 @@
 
 ---
 
-### 02 · 渐进式编程课
+### 03 · 渐进式编程课
 
 **一次一个主题，让学习持续发生。**
 
@@ -39,7 +69,7 @@
 
 ---
 
-### 03 · 饕影热点
+### 04 · 饕影热点
 
 **把分散的热点，放到同一个入口。**
 
@@ -69,8 +99,9 @@
   <img src="assets/rust.svg" height="28" alt="Rust">
 </p>
 
-## 正在打磨
+## 保持创造，也持续打磨
 
+- **独立应用** — 从自己的使用需求出发，打磨交互与阅读体验，在 AppShow 记录作品进展。
 - **工作流** — 把真实任务整理成可复用的 Skill 组合。
 - **学习路径** — 用小步课程记录知识，用练习检验理解。
 - **实用工具** — 让采集、数据和界面配合起来，解决具体问题。
